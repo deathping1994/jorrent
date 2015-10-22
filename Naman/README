@@ -1,0 +1,22 @@
+How to compile:
+==============
+
+gcc client.c -o client
+gcc server.c -o server
+
+How to run:
+==========
+
+Run each command on a different terminal window
+
+./client hostname portno
+./server portno
+
+Note: Start the server first and then the client.
+
+Sample:
+./server 1234
+./client ubuntu 1234
+
+
+
