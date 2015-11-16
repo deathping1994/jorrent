@@ -1,3 +1,22 @@
+How to configure:
+==============
+
+Edit the IP in client.py to your server's address.
+
+How to run:
+==========
+
+First run the server. 
+Enter the file to be sent
+Enter the port number(eg.3333)
+
+Now run the client
+Enter the file to be saved as
+Enter the port number of the server
+Wait..
+
+-----------------------------------------------------------------------------------------------------------------------
+
 How to compile:
 ==============
 
